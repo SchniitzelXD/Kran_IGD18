@@ -1,0 +1,37 @@
+H:\Facharbeit Kran\Programm\KranAnwendung\KranAnwendung\bin\Debug\KranAnwendung.exe.config
+H:\Facharbeit Kran\Programm\KranAnwendung\KranAnwendung\bin\Debug\KranAnwendung.exe
+H:\Facharbeit Kran\Programm\KranAnwendung\KranAnwendung\bin\Debug\KranAnwendung.pdb
+H:\Facharbeit Kran\Programm\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.csprojResolveAssemblyReference.cache
+H:\Facharbeit Kran\Programm\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.frm_Kran.resources
+H:\Facharbeit Kran\Programm\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.Properties.Resources.resources
+H:\Facharbeit Kran\Programm\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.csproj.GenerateResource.Cache
+H:\Facharbeit Kran\Programm\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.exe
+H:\Facharbeit Kran\Programm\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.pdb
+F:\Facharbeit\Programm\KranAnwendung\KranAnwendung\bin\Debug\KranAnwendung.exe.config
+F:\Facharbeit\Programm\KranAnwendung\KranAnwendung\bin\Debug\KranAnwendung.exe
+F:\Facharbeit\Programm\KranAnwendung\KranAnwendung\bin\Debug\KranAnwendung.pdb
+F:\Facharbeit\Programm\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.csprojAssemblyReference.cache
+F:\Facharbeit\Programm\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.frm_Kran.resources
+F:\Facharbeit\Programm\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.Properties.Resources.resources
+F:\Facharbeit\Programm\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.csproj.GenerateResource.cache
+F:\Facharbeit\Programm\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.csproj.CoreCompileInputs.cache
+F:\Facharbeit\Programm\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.exe
+F:\Facharbeit\Programm\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.pdb
+U:\Facharbeit\Programm_neu\KranAnwendung\KranAnwendung\bin\Debug\KranAnwendung.exe.config
+U:\Facharbeit\Programm_neu\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.exe
+U:\Facharbeit\Programm_neu\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.pdb
+U:\Facharbeit\Programm_neu\KranAnwendung\KranAnwendung\bin\Debug\KranAnwendung.exe
+U:\Facharbeit\Programm_neu\KranAnwendung\KranAnwendung\bin\Debug\KranAnwendung.pdb
+U:\Facharbeit\Programm_neu\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.csprojResolveAssemblyReference.cache
+U:\Facharbeit\Programm_neu\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.frm_Kran.resources
+U:\Facharbeit\Programm_neu\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.Properties.Resources.resources
+U:\Facharbeit\Programm_neu\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.csproj.GenerateResource.Cache
+P:\T-Bereich\D2018\_Tausch\Lukas_LucaO\ProgrammV3\KranAnwendung\KranAnwendung\bin\Debug\KranAnwendung.exe.config
+P:\T-Bereich\D2018\_Tausch\Lukas_LucaO\ProgrammV3\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.exe
+P:\T-Bereich\D2018\_Tausch\Lukas_LucaO\ProgrammV3\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.pdb
+P:\T-Bereich\D2018\_Tausch\Lukas_LucaO\ProgrammV3\KranAnwendung\KranAnwendung\bin\Debug\KranAnwendung.exe
+P:\T-Bereich\D2018\_Tausch\Lukas_LucaO\ProgrammV3\KranAnwendung\KranAnwendung\bin\Debug\KranAnwendung.pdb
+P:\T-Bereich\D2018\_Tausch\Lukas_LucaO\ProgrammV3\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.csprojResolveAssemblyReference.cache
+P:\T-Bereich\D2018\_Tausch\Lukas_LucaO\ProgrammV3\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.frm_Kran.resources
+P:\T-Bereich\D2018\_Tausch\Lukas_LucaO\ProgrammV3\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.Properties.Resources.resources
+P:\T-Bereich\D2018\_Tausch\Lukas_LucaO\ProgrammV3\KranAnwendung\KranAnwendung\obj\Debug\KranAnwendung.csproj.GenerateResource.Cache
