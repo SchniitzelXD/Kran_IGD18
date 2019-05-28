@@ -195,10 +195,17 @@ namespace KranAnwendung
         private void btnAllesAufAnfang_Click(object sender, EventArgs e)
         {
             pBoxKranHaken.Size = new Size(85, 203);
-            pBoxKranHaken.Location = new Point(429, 178);
+            pBoxKranHaken.Location = new Point(439, 178);
             pBoxHaken.Location = new Point(445, 370);
             pBoxKiste.Location = new Point(329, 490);
             griff = false;
+        }
+
+        private void btnHilfe_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Du benötigst Hilfe? Dann schau dir doch nochmal die Bedienungsanleitung an!",
+                            "Hilfeanzeige",
+                            MessageBoxButtons.OK);
         }
 
     }

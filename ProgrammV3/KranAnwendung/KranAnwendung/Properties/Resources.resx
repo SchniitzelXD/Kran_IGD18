@@ -124,14 +124,17 @@
   <data name="Kran Fertig" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Kran Fertig.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Kran Katze real shit dude1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Kran Katze real shit dude.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Paint Kran" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Paint Kran.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Kranhaken" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Kranhaken.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Kran Fertig1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Kran Fertig.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="snoop dogg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\snoop dogg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Kiste" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Kiste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,8 +148,8 @@
   <data name="Kran Katze" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Kran Katze.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Kran Katze real shit dude1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Kran Katze real shit dude.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Kran Katze1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Kran Katze1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Kran" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Kran.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -157,8 +160,8 @@
   <data name="Kiste Bier1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Kiste Bier1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Paint Kran V3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Paint Kran V3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Kran Fertig1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Kran Fertig.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Kranhaken tha goood stuff" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Kranhaken tha goood stuff.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -166,10 +169,13 @@
   <data name="Paint Kran V2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Paint Kran V2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Paint Kran V3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Paint Kran V3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="krankatze" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\krankatze.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="snoop dogg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\snoop dogg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Kran Katze2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Kran Katze2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
